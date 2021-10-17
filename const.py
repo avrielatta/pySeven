@@ -1,0 +1,5 @@
+# Constant variables
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+WINDOW_WIDTH = 1920
+WINDOW_HEIGHT = 1080
